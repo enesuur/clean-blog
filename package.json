@@ -1,0 +1,29 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "clean blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesuur/clean-blog.git"
+  },
+  "keywords": [
+    "clean",
+    "blog",
+    "blog"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enesuur/clean-blog/issues"
+  },
+  "homepage": "https://github.com/enesuur/clean-blog#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
